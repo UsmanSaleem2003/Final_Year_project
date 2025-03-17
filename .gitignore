@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+myvenv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django database
+db.sqlite3
+*.sqlite3
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+*.out
+*.pid
+
+# Node.js dependencies
+frontend/node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build and generated files
+frontend/build/
+frontend/.next/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
